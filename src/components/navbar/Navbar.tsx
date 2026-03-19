@@ -6,7 +6,7 @@ export default function Navbar() {
           href="#home"
           className="text-lg font-semibold tracking-wide text-white transition hover:text-gray-300"
         >
-          Cesar.dev
+          CesarDEV
         </a>
 
         <nav className="hidden items-center gap-8 md:flex">

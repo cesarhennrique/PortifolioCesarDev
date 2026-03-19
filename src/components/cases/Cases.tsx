@@ -57,7 +57,7 @@ export default function Cases() {
           {cases.map((item) => (
             <article
               key={item.id}
-              className="group overflow-hidden rounded-[28px] border border-black/5 bg-white backdrop-blur-sm transition duration-300  hover:border-white/20"
+              className="group overflow-hidden rounded-[28px] border border-black/5 bg-white backdrop-blur-sm transition duration-300"
             >
               <div className="overflow-hidden">
                 <div className="p-5">

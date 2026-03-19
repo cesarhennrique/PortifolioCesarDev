@@ -1,7 +1,9 @@
 
 import About from './components/about/About'
 import Cases from './components/cases/Cases'
+import Faq from './components/faq/Faq'
 import Navbar from './components/navbar/Navbar'
+import Process from './components/process/Process'
 import Home from './pages/Home'
 function App() {
   return (
@@ -11,6 +13,8 @@ function App() {
     <Home />
     <About />
     <Cases />
+    <Process />
+    <Faq />
   </div>
   </>
   )
