@@ -33,8 +33,8 @@ export default function Contact() {
 
         {/* lado direito */}
         <div className="flex flex-col items-center justify-center text-center">
-          <div className="mb-6 flex h-28 w-28 items-center justify-center rounded-full bg-black/5">
-            <span className="text-3xl font-semibold">CH</span>
+          <div className="mb-6 flex h-28 w-40 items-center justify-center rounded-full ">
+            <img src="/logosemfundo.png" alt="" />
           </div>
 
           <p className="text-sm text-neutral-600">
@@ -43,7 +43,7 @@ export default function Contact() {
 
           <div className="mt-6 flex flex-wrap items-center justify-center gap-6 text-sm font-medium">
             <a
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/cesarhennrique/"
               target="_blank"
               rel="noreferrer"
               className="flex items-center gap-2 transition hover:text-black/70"
@@ -53,7 +53,7 @@ export default function Contact() {
             </a>
 
             <a
-              href="https://github.com/"
+              href="https://github.com/cesarhennrique"
               target="_blank"
               rel="noreferrer"
               className="flex items-center gap-2 transition hover:text-black/70"
@@ -63,7 +63,7 @@ export default function Contact() {
             </a>
 
             <a
-              href="https://www.instagram.com/"
+              href="https://www.instagram.com/dev.cesarhenrique"
               target="_blank"
               rel="noreferrer"
               className="flex items-center gap-2 transition hover:text-black/70"
@@ -74,7 +74,7 @@ export default function Contact() {
           </div>
 
           <a
-            href="mailto:seuemail@gmail.com"
+            href="dev.cesarhenrique@gmail.com"
             className="mt-6 flex items-center gap-2 text-base text-neutral-700 transition hover:text-black"
           >
             <Mail size={18} />

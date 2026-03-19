@@ -2,11 +2,12 @@ export default function Navbar() {
   return (
     <header className="fixed top-0 left-0 w-full z-50 border-b border-white/10 bg-black backdrop-blur-md">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
-        <a
-          href="#home"
-          className="text-lg font-semibold tracking-wide text-white transition hover:text-gray-300"
-        >
-          CesarDEV
+        <a href="#home">
+          <img
+            className="h-12 w-auto object-contain"
+            src="/logosemfundo.png"
+            alt=""
+          />
         </a>
 
         <nav className="hidden items-center gap-8 md:flex">
