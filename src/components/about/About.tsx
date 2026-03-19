@@ -67,7 +67,7 @@ export default function About() {
             </a>
 
             <a
-              href="dev.cesarhenrique@gmail.com"
+              href="mailto:dev.cesarhenrique@gmail.com"
               className="flex items-center gap-2 text-neutral-800 transition hover:text-black"
             >
               <Mail size={18} />

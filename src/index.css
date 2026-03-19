@@ -9,3 +9,16 @@
   font-family: "Inter", sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+#home,
+#sobre,
+#projetos,
+#processo,
+#faq,
+#contato {
+  scroll-margin-top: 90px;
+}
+

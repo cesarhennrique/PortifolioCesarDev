@@ -67,7 +67,7 @@ export default function Faq() {
             </p>
 
             <a
-              href="dev.cesarhenrique@gmail.com"
+              href="mailto:dev.cesarhenrique@gmail.com"
               className="mt-5 flex gap-2 items-center text-sm font-medium text-blue-600 "
             ><Mail size={18} />
               dev.cesarhenrique@gmail.com

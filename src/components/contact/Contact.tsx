@@ -24,7 +24,7 @@ export default function Contact() {
           </p>
 
           <a
-            href="dev.cesarhennrique@gmail.com"
+            href="mailto:dev.cesarhenrique@gmail.com"
             className="mt-8 inline-flex rounded-full bg-blue-600 px-6 py-3 text-sm font-medium text-white transition hover:opacity-90"
           >
             Entrar em contato
@@ -74,7 +74,7 @@ export default function Contact() {
           </div>
 
           <a
-            href="dev.cesarhenrique@gmail.com"
+            href="mailto:dev.cesarhenrique@gmail.com"
             className="mt-6 flex items-center gap-2 text-base text-neutral-700 transition hover:text-black"
           >
             <Mail size={18} />
