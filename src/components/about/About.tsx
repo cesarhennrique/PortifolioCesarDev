@@ -7,7 +7,7 @@ export default function About() {
         {/* imagem */}
         <div className="flex justify-center md:justify-start">
           <img
-            src="public/fotocesar.jpg"
+            src="/fotocesar.jpg"
             alt="Foto de Cesar Henrique"
             className="h-180 w-full max-w-117.5 rounded-[28px] object-cover shadow-sm"
           />
