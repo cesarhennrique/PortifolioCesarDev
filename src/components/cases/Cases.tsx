@@ -6,7 +6,7 @@ const cases = [
     description:
       "Plataforma desenvolvida para apresentar uma experiência moderna de delivery saudável, com navegação intuitiva, interface responsiva e organização clara das informações.",
     image:
-      "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=1200&auto=format&fit=crop",
+      "public/nutribox.jpg",
     technologies: ["React", "TypeScript", "Tailwind", "Node.js"],
     demo: "https://healty-food-delivery-frontend-pj03.vercel.app/",
     github: "https://github.com/Grupo-05-Turma-Javascript-12/healty-food-delivery-frontend-pj03-gp05-js12",
@@ -18,7 +18,7 @@ const cases = [
     description:
       "Projeto voltado para gestão de recursos humanos, com foco em organização visual, experiência do usuário e estrutura pensada para facilitar o uso no dia a dia.",
     image:
-      "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1200&auto=format&fit=crop",
+      "public/elevarh.jpg",
     technologies: ["React", "TypeScript", "Tailwind"],
     demo: "https://rh-frontend-grupo05-js12.vercel.app/",
     github: "https://github.com/Grupo-05-Turma-Javascript-12/rh-frontend-grupo05-js12",
@@ -30,10 +30,10 @@ const cases = [
     description:
       "Projeto autoral criado para apresentar minha trajetória, projetos e habilidades de forma profissional, com foco em identidade visual, clareza e posicionamento digital.",
     image:
-      "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+      "public/portifolio.png",
     technologies: ["React", "TypeScript", "Tailwind"],
     demo: "#",
-    github: "#",
+    github: "https://github.com/cesarhennrique/PortifolioCesarDev",
   },
 ];
 
