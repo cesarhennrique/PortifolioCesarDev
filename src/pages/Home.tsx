@@ -50,7 +50,7 @@ export default function Home() {
           </a>
 
           <a
-            href="#projetos"
+            href="#cases"
             className="rounded-full bg-white px-7 py-3 text-sm font-semibold text-black transition hover:scale-105 hover:opacity-90"
           >
             Ver projetos

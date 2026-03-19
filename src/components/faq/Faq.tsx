@@ -42,7 +42,7 @@ export default function Faq() {
   }
 
   return (
-    <section id="faq" className="bg-[#f3f3f3] px-6 py-24 text-black">
+    <section id="faq" className="bg-black/5 px-6 py-24 text-black">
       <div className="mx-auto grid max-w-6xl gap-32 md:grid-cols-[0.9fr_1.1fr]">
         {/* lado esquerdo */}
         <div className="max-w-md">
@@ -67,7 +67,7 @@ export default function Faq() {
             </p>
 
             <a
-              href="mailto:seuemail@gmail.com"
+              href="dev.cesarhenrique@gmail.com"
               className="mt-5 flex gap-2 items-center text-sm font-medium text-blue-600 "
             ><Mail size={18} />
               dev.cesarhenrique@gmail.com
