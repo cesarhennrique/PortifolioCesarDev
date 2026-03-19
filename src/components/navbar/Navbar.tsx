@@ -1,6 +1,6 @@
 export default function Navbar() {
   return (
-    <header className="fixed top-0 left-0 w-full z-50 border-b border-white/10 bg-black/10 backdrop-blur-md">
+    <header className="fixed top-0 left-0 w-full z-50 border-b border-white/10 bg-black backdrop-blur-md">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
         <a
           href="#home"
@@ -20,13 +20,13 @@ export default function Navbar() {
             href="#sobre"
             className="text-sm font-medium text-white transition hover:text-gray-300"
           >
-            Sobre
+            Sobre mim
           </a>
           <a
-            href="#projetos"
+            href="#cases"
             className="text-sm font-medium text-white transition hover:text-gray-300"
           >
-            Projetos
+            Cases
           </a>
           <a
             href="#contato"
