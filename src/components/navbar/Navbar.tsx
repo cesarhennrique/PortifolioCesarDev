@@ -38,7 +38,7 @@ export default function Navbar() {
         </nav>
 
         <a
-          href="https://drive.google.com/file/d/1L9rtI2AgstRkRD74V3KoHMzuOOl3dYNt/view?usp=sharing"
+          href="https://drive.google.com/file/d/1XbC3XsgsQtqHtnK33B1SVYH3-ae0z4M4/view?usp=drive_link"
           target="_blank"
           rel="noreferrer"
           className="rounded-full border border-white/20 px-5 py-2 text-sm font-medium text-white transition hover:bg-white hover:text-black"
