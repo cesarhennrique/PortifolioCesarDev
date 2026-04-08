@@ -22,3 +22,8 @@ html {
   scroll-margin-top: 90px;
 }
 
+@keyframes scroll-tags {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
