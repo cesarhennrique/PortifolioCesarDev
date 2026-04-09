@@ -35,6 +35,15 @@ const cases = [
     demo: 'https://va-arquitetura.vercel.app/',
     github: 'https://github.com/cesarhennrique/va-arquitetura',
   },
+   {
+    id: 5,
+    title: 'Conecta Gravata',
+    description: 'Guia local para cidade de Gravataí, com informações sobre comércio, serviços e eventos, focado em experiência do usuário e design responsivo.',
+    image: '/conectagravata.png',
+    technologies: ['React', 'TypeScript', 'Tailwind', 'Framer Motion'],
+    demo: 'https://www.conectagravata.com.br/',
+    github: 'https://github.com/cesarhennrique/conectaGravata',
+  },
 ]
 
 export default function Cases() {
