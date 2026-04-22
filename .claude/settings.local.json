@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npx tsc *)",
+      "Bash(rm src/components/ui/sign-in-flow-1.tsx src/lib/utils.ts)",
+      "Bash(rmdir src/components/ui src/lib)",
+      "Bash(npm uninstall *)"
+    ]
+  }
+}

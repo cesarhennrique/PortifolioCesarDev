@@ -39,12 +39,10 @@ export default function Footer() {
         </div>
 
         {/* bottom */}
-        <div className="mt-8 flex flex-col items-center justify-between gap-4 text-sm text-neutral-500 md:flex-row">
+        <div className="mt-8 flex flex-col  justify-center gap-4 text-sm text-neutral-500 md:flex-row">
           <p>© {new Date().getFullYear()} Cesar Henrique. Todos os direitos reservados.</p>
 
-          <p className="text-neutral-600">
-            Desenvolvido com React, TypeScript e Tailwind
-          </p>
+          
         </div>
       </div>
     </footer>
