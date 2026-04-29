@@ -1,6 +1,20 @@
 const cases = [
-  {
+    {
     id: 1,
+    title: "Ubixy - Empresa de Tecnologia",
+    description:
+      "empresa de tecnologia que desenvolve sistemas SaaS, plataformas web e soluções digitais para empresas de diversos setores, com foco em inovação, eficiência e experiência do usuário.",
+    image: "/urbixy.png",
+    technologies: [
+      "React",
+      "TypeScript",
+      "Tailwind",
+      "Framer Motion",
+    ],
+    demo: "https://www.urbixy.com.br/",
+  },
+  {
+    id: 2,
     title: "Invixy - Sistema de Gestao de Estoque",
     description:
       "O sistema de controle de estoque mais simples do Brasil. Feito para pequenos empreendedores que querem organizar, reduzir prejuízos e crescer.",
@@ -17,7 +31,7 @@ const cases = [
   },
 
   {
-    id: 2,
+    id: 3,
     title: "Conecta Gravata",
     description:
       "Guia local para cidade de Gravataí, com informações sobre comércio, serviços e eventos, focado em experiência do usuário e design responsivo.",
@@ -27,7 +41,7 @@ const cases = [
     github: "https://github.com/cesarhennrique/conectaGravata",
   },
   {
-    id: 3,
+    id: 4,
     title: "VA Arquitetura",
     description:
       "Site institucional com portfólio interativo e formulário integrado ao WhatsApp.",
@@ -37,7 +51,7 @@ const cases = [
     github: "https://github.com/cesarhennrique/va-arquitetura",
   },
   {
-    id: 4,
+    id: 5,
     title: "Nutribox",
     description:
       "Plataforma de delivery saudável com navegação intuitiva e interface responsiva.",
@@ -48,7 +62,7 @@ const cases = [
       "https://github.com/Grupo-05-Turma-Javascript-12/healty-food-delivery-frontend-pj03-gp05-js12",
   },
   {
-    id: 5,
+    id: 6,
     title: "Elevva RH",
     description:
       "Sistema de gestão de recursos humanos com foco em organização visual e UX.",
@@ -59,7 +73,7 @@ const cases = [
       "https://github.com/Grupo-05-Turma-Javascript-12/rh-frontend-grupo05-js12",
   },
   {
-    id: 6,
+    id: 7,
     title: "Portfólio Pessoal",
     description:
       "Site autoral para apresentar trajetória, projetos e habilidades de forma profissional.",
