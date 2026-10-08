@@ -1,0 +1,26 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "cesarhenriquedeveloper.com.br"
+        }
+      ],
+      "destination": "https://wa.me/5581988188464?text=Ol%C3%A1%2C%20Cesar!%20Acessei%20seu%20site%20e%20gostaria%20de%20conversar%20sobre%20o%20desenvolvimento%20de%20um%20projeto.",
+      "permanent": false
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.cesarhenriquedeveloper.com.br"
+        }
+      ],
+      "destination": "https://wa.me/5581988188464?text=Ol%C3%A1%2C%20Cesar!%20Acessei%20seu%20site%20e%20gostaria%20de%20conversar%20sobre%20o%20desenvolvimento%20de%20um%20projeto.",
+      "permanent": false
+    }
+  ]
+}
